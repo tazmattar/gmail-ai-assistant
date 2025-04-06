@@ -10,7 +10,7 @@ This Google Apps Script automatically drafts professional email replies using GP
 - Filters out **internal emails** from @cavendishmusic.com
 - Skips spam using Gmail's **Primary tab filter**
 
-## 🛠Setup
+## Setup
 
 1. Go to [https://script.google.com](https://script.google.com)
 2. Create a new project and paste the code from `Code.gs`
