@@ -1,0 +1,4 @@
+# No sensitive files needed here, but good habit
+.DS_Store
+node_modules/
+.env
